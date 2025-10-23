@@ -11,7 +11,7 @@
       ],
       "date": "2025-10-24",
       "mandatory": false,
-      "url": "https://github.com/Zeepeline/desktop_flutter_test/blob/main/dokfin_mobile_app.exe",
+      "url": "https://raw.githubusercontent.com/Zeepeline/desktop_flutter_test/main",
       "platform": "windows"
     }
   ]
