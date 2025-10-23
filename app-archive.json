@@ -3,8 +3,8 @@
   "description": "Dokfin Finance System for Windows",
   "items": [
     {
-      "version": "2.1.9",
-      "shortVersion": 34,
+      "version": "2.1.10",
+      "shortVersion": 71,
       "changes": [
         { "type": "feat", "message": "Add bank reconciliation module" },
         { "type": "fix", "message": "Resolve login token refresh issue" }
