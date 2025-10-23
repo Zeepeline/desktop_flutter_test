@@ -11,7 +11,7 @@
       ],
       "date": "2025-10-24",
       "mandatory": false,
-      "url": "https://example.com/archive/dokfin_desktop/1.2.9+71-windows.exe",
+      "url": "https://raw.githubusercontent.com/github/gitignore/main/Flutter.gitignore",
       "platform": "windows"
     }
   ]
