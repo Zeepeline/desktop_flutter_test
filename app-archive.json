@@ -1,11 +1,18 @@
 {
-  "latestVersion": "0.1.8",
-  "url": "https://www.yourwebsite.com/archive/desktop_updater/0.1.8+9-windows.exe",
-  "platform": "windows",
-  "changelog": [
-    "Fix bug #1",
-    "Add new feature #1",
-    "Add new feature #2"
-  ],
-  "mandatory": true
+  "appName": "Dokfin Desktop",
+  "description": "Dokfin Finance System for Windows",
+  "items": [
+    {
+      "version": "2.1.9",
+      "shortVersion": 34,
+      "changes": [
+        { "type": "feat", "message": "Add bank reconciliation module" },
+        { "type": "fix", "message": "Resolve login token refresh issue" }
+      ],
+      "date": "2025-10-23",
+      "mandatory": false,
+      "url": "https://example.com/archive/dokfin_desktop/2.1.9%2B34-windows",
+      "platform": "windows"
+    }
+  ]
 }
