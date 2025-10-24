@@ -3,8 +3,8 @@
   "description": "Dokfin Finance System for Windows",
   "items": [
     {
-      "version": "1.2.9",
-      "shortVersion": 71,
+      "version": "1.2.8",
+      "shortVersion": 70,
       "changes": [
         { "type": "feat", "message": "Added tax report export feature" },
         { "type": "fix", "message": "Resolved crash on login screen" }
